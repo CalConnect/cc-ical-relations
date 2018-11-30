@@ -1,0 +1,19 @@
+
+[bibliography]
+== Normative references
+
+* [[[RFC5545,IETF RFC 5545]]], _AUTOFILL_
+// Desruisseaux, B., Ed., "Internet Calendaring and Scheduling Core Object Specification (iCalendar)", RFC 5545, DOI 10.17487/RFC5545, September 2009, <http://www.rfc-editor.org/info/rfc5545>.
+
+* [[[RFC5988,IETF RFC 5988]]], _AUTOFILL_
+//M. Nottingham. _Web Linking_. 2010. https://www.rfc-editor.org/info/rfc5988
+
+* [[[RFC6638,IETF RFC 6638]]], _AUTOFILL_
+//Daboo, C. and B. Desruisseaux, "Scheduling Extensions to CalDAV", RFC 6638, DOI 10.17487/RFC6638, June 2012, <http://www.rfc-editor.org/info/rfc6638>.
+
+* [[[W3C.CR-skos-reference-20090317,W3C CR skos-reference-20090317]]], Sean Bechhofer, Alistair Miles. _SKOS Simple Knowledge Organization System Reference._ 2009. http://www.w3.org/TR/2009/CR-skos-reference-20090317
+
+* [[[W3C.WD-xptr-xpointer-20021219,W3C WD xptr-xpointer-20021219]]], Steven DeRose, Ron Daniel, Eve Maler. _XPointer xpointer() Scheme._ 2002. http://www.w3.org/TR/2002/WD-xptr-xpointer-20021219
+
+* [[[I-D.daboo-caldav-attachments,IETF I-D daboo-caldav-attachments]]], _AUTOFILL_
+//Cyrus Daboo, Arnaud Quillaud. _CalDAV Managed Attachments._ 2014. http://www.ietf.org/internet-drafts/draft-daboo-caldav-attachments-03.txt
