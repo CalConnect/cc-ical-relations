@@ -8,7 +8,7 @@ image:https://travis-ci.com/CalConnect/csd-ical-relations.svg?branch=master["Bui
 
 This document is available in its rendered forms here:
 
-* https://calconnect.github.io/csd-ical-relations/[CalConnect Standard: Calendaring and scheduling -- Calendar subscription upgrades (HTML)]
+* https://calconnect.github.io/csd-ical-relations/[CalConnect Standard: Calendaring and scheduling -- Support for iCalendar Relationships (HTML)]
 * https://calconnect.github.io/csd-ical-relations/csd-ical-relations.pdf[PDF]
 * https://calconnect.github.io/csd-ical-relations/csd-ical-relations.xml[Metanorma XML]
 * https://calconnect.github.io/csd-ical-relations/csd-ical-relations.rxl[Relaton XML (Bibliographic item)]
