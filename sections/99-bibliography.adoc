@@ -1,3 +1,6 @@
 
 [bibliography]
 == Bibliography
+
+* [[[RFC2119,IETF RFC 2119]]], _AUTOFILL_
+//M. Nottingham. _Web Linking_. 2010. https://www.rfc-editor.org/info/rfc2119
