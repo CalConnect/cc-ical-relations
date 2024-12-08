@@ -1,8 +1,10 @@
 ---
 metanorma:
-  deploy:
-    email: "ci@metanorma.org"
-relaton:
+  source:
+    files:
+      - sources/cc-51004.adoc
+      - sources/draft-ietf-calext-ical-relations.adoc
+
   collection:
-    name: TC-CALENDAR
+    name: Calendaring and scheduling -- Support for iCalendar Relationships
     organization: CalConnect

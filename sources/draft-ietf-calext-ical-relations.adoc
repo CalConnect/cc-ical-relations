@@ -1,21 +1,29 @@
 = CalConnect Standard: Calendaring and scheduling -- Support for iCalendar Relationships
-:title: Calendaring and scheduling -- Support for iCalendar Relationships
-:fullname: Michael Douglass
-:firstname: Michael
-:surname: Douglass
-:docnumber: 51004
-:copyright-year: 2018
-:language: en
-:doctype: standard
-:edition: 1
-:status: committee-draft
+:doctype: internet-draft
+:docnumber: draft-ietf-calext-ical-relations-05
+:status: standard
+:ipr: trust200902
+:consensus: true
+:updates: RFC5545
+:submission-type: IETF
+:area: Internet
+:intended-series: full-standard
 :revdate: 2018-11-30
-:published-date: 2018-11-30
-:script: Latn
-:technical-committee: CALENDAR
+:fullname: Michael Douglass
+:lastname: Douglass
+:forename_initials: M.
+:affiliation: Bedework Commercial Services
+:street: 226 3rd Street
+:city: Troy
+:state: NY
+:code: 12180
+:country: United States of America
+:contibutor-uri: https://bcs.com/
+:email: mdouglass@bedework.com
 :imagesdir: images
-:mn-document-class: cc
-:mn-output-extensions: xml,html,pdf
+:mn-document-class: ietf
+:mn-output-extensions: rfc,xml,txt,html
+:workgroup: calext
 :local-cache-only:
 :data-uri-image:
 
@@ -27,7 +35,9 @@ include::sections/00-intro.adoc[]
 
 include::sections/01-scope.adoc[]
 
-include::sections/02-normrefs.adoc[]
+include::sections-ietf/02-conventions.adoc[]
+
+// include::sections/02-normrefs.adoc[]
 
 include::sections/03-terms.adoc[]
 
@@ -51,4 +61,4 @@ include::sections/12-iana.adoc[]
 
 include::sections/13-acknowledgements.adoc[]
 
-include::sections/99-bibliography.adoc[]
+include::sections-ietf/98-references.adoc[]

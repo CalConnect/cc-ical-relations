@@ -1,6 +1,6 @@
 
 [bibliography]
-== Normative references
+== Normative References
 
 * [[[RFC5545,IETF RFC 5545]]]
 // Desruisseaux, B., Ed., "Internet Calendaring and Scheduling Core Object Specification (iCalendar)", RFC 5545, DOI 10.17487/RFC5545, September 2009, <http://www.rfc-editor.org/info/rfc5545>.
@@ -17,3 +17,12 @@
 
 * [[[I-D.daboo-caldav-attachments,IETF I-D daboo-caldav-attachments]]]
 //Cyrus Daboo, Arnaud Quillaud. _CalDAV Managed Attachments._ 2014. http://www.ietf.org/internet-drafts/draft-daboo-caldav-attachments-03.txt
+
+
+[bibliography]
+== Informative References
+
+* [[[RFC2119,IETF RFC 2119]]]
+//M. Nottingham. _Web Linking_. 2010. https://www.rfc-editor.org/info/rfc2119
+
+* [[[RFC3986,IETF RFC 3986]]]
