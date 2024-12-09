@@ -40,6 +40,7 @@ Possible category resources are the various proprietary systems,
    something like the dmoz.org data.
 
 Format Definition::
++
 --
 This property is defined by the following notation:
 
@@ -169,6 +170,7 @@ Description:: The value of this property is a text identifier that
    have the same REFID value.
 
 Format Definition::
++
 --
 This property is defined by the following notation:
 
