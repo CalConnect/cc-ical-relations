@@ -1,0 +1,58 @@
+<bibdata type="standard">
+  <fetched>2020-06-16</fetched>
+  <title format="text/plain" language="en" script="Latn">CalDAV Managed Attachments</title>
+  <uri type="xml">https://xml2rfc.tools.ietf.org/public/rfc/bibxml3/reference.I-D.daboo-caldav-attachments.xml</uri>
+  <uri type="TXT">http://www.ietf.org/internet-drafts/draft-daboo-caldav-attachments-03.txt</uri>
+  <docidentifier type="IETF">I-D.daboo-caldav-attachments</docidentifier>
+  <docidentifier type="rfc-anchor">I-D.daboo-caldav-attachments</docidentifier>
+  <docidentifier type="Internet-Draft">draft-daboo-caldav-attachments-03</docidentifier>
+  <date type="published">
+    <on>2014-02</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <person>
+      <name>
+        <completename language="en">Cyrus Daboo</completename>
+      </name>
+      <affiliation>
+        <organization>
+          <name>Internet Engineering Task Force</name>
+          <abbreviation>IETF</abbreviation>
+        </organization>
+      </affiliation>
+    </person>
+  </contributor>
+  <contributor>
+    <role type="author"/>
+    <person>
+      <name>
+        <completename language="en">Arnaud Quillaud</completename>
+      </name>
+      <affiliation>
+        <organization>
+          <name>Internet Engineering Task Force</name>
+          <abbreviation>IETF</abbreviation>
+        </organization>
+      </affiliation>
+    </person>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Internet Engineering Task Force</name>
+      <abbreviation>IETF</abbreviation>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This specification defines an extension to the calendar access protocol (CalDAV) to allow attachments associated with iCalendar data, to be stored and managed on the server.</abstract>
+  <series type="main">
+    <title format="text/plain" language="en" script="Latn">Internet-Draft</title>
+    <number>draft-daboo-caldav-attachments-03</number>
+  </series>
+  <place>Fremont, CA</place>
+  <ext>
+    <doctype>internet-draft</doctype>
+  </ext>
+</bibdata>
