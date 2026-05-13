@@ -1,3 +1,5 @@
+# metanorma.release.yml — cc-ical-relations
+
 documents:
-  - source: sources/cc-51004.adoc
-  - source: sources/draft-ietf-calext-ical-relations.adoc
+  - pattern: "cc-*"
+    channels: [public/standards]

@@ -1,0 +1,5 @@
+# .metanorma/channels.yml — cc-ical-relations
+
+channels:
+  - name: public/standards
+    description: "CalConnect documents from cc-ical-relations"
